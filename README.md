@@ -17,7 +17,7 @@ A simple Java-based task management system to create, track, and manage tasks.
 ## Getting Started
 
 ### Prerequisites
-- Java 8 or higher  
+- Java 21 or higher  
 - Maven 3+  
 - (Optional) IDE like IntelliJ, Eclipse, or VS Code
 
